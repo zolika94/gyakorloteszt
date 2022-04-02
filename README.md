@@ -1,1 +1,2 @@
 # gyakorloteszt
+# meghoztam
